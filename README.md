@@ -19,7 +19,7 @@ A retail company seeks to understand customer personalities and purchasing behav
 ### Project 2: Lead Conversion Prediction (EdTech)
 **Predicting high-potential leads using classification models to optimize sales resource allocation**
 
-ExtraaLearn, an EdTech startup, needs to identify which leads are most likely to convert to paid customers. The project builds predictive models to prioritize leads and uncover key conversion drivers.
+ExtraaLearn, an EdTech startup, needs to identify which leads are most likely to convert to paid customers. The project builds predictive models to prioritise leads and uncover key conversion drivers.
 
 - **Dataset:** Lead interaction data with demographics, website engagement, and conversion status
 - **Techniques:** Decision Trees, Random Forests, Hyperparameter Tuning (GridSearchCV), Feature Importance Analysis
@@ -35,7 +35,7 @@ Amazon requires accurate recommendation systems to enhance customer experience a
 
 - **Dataset:** Amazon Electronics reviews (65,290 ratings from 1,540 users on 5,689 products)
 - **Techniques:** Rank-Based Recommendation (Popularity), User-User Collaborative Filtering (KNN with Cosine Similarity), Item-Item Collaborative Filtering (KNN with MSD), Matrix Factorization (SVD)
-- **Key Results:** User-User Collaborative Filtering achieved best F1-Score, Matrix Factorisation achieved lowest RMSE
+- **Key Results:** User-User Collaborative Filtering achieved best F1-Score, Matrix Factorization achieved lowest RMSE
 - **Business Impact:** Improved product discovery, personalised recommendations, and customer engagement
 
 ---
