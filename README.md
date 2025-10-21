@@ -29,7 +29,7 @@ ExtraaLearn, an EdTech startup, needs to identify which leads are most likely to
 ---
 
 ### Project 3: Amazon Product Recommendation System
-**Building collaborative filtering models to provide personalized product recommendations**
+**Building collaborative filtering models to provide personalised product recommendations**
 
 Amazon requires accurate recommendation systems to enhance customer experience and drive sales. The project implements multiple recommendation algorithms to predict user ratings and suggest relevant products.
 
