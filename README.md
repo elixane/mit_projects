@@ -7,7 +7,7 @@ This repository contains my project implementations from MIT's **Data Science an
 ### Project 1: Customer Segmentation Analysis
 **Using K-Means clustering to identify distinct customer groups for targeted marketing**
 
-A retail company seeks to understand customer personalities and purchasing behaviors to create personalised marketing strategies. The project segments customers based on demographics, spending patterns, and engagement metrics.
+A retail company seeks to understand customer personalities and purchasing behaviours to create personalised marketing strategies. The project segments customers based on demographics, spending patterns, and engagement metrics.
 
 - **Dataset:** Customer demographics and 2-year purchasing behavior data
 - **Techniques:** K-Means Clustering, Elbow Method, Silhouette Analysis, Feature Scaling
@@ -17,7 +17,7 @@ A retail company seeks to understand customer personalities and purchasing behav
 ---
 
 ### Project 2: Lead Conversion Prediction (EdTech)
-**Predicting high-potential leads using classification models to optimize sales resource allocation**
+**Predicting high-potential leads using classification models to optimise sales resource allocation**
 
 ExtraaLearn, an EdTech startup, needs to identify which leads are most likely to convert to paid customers. The project builds predictive models to prioritise leads and uncover key conversion drivers.
 
