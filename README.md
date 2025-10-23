@@ -9,7 +9,7 @@ This repository contains my project implementations from MIT's **Data Science an
 
 A retail company seeks to understand customer personalities and purchasing behaviours to create personalised marketing strategies. The project segments customers based on demographics, spending patterns, and engagement metrics.
 
-- **Dataset:** Customer demographics and 2-year purchasing behavior data
+- **Dataset:** Customer demographics and 2-year purchasing behaviour data
 - **Techniques:** K-Means Clustering, Elbow Method, Silhouette Analysis, Feature Scaling
 - **Key Results:** Identified optimal customer segments with distinct characteristics and spending patterns
 - **Business Impact:** Enabled personalised marketing campaigns, targeted retention strategies, and optimised resource allocation
